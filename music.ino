@@ -11,7 +11,7 @@ const uint8_t TEST_PIN = 14;
 #define STOP_MODE   1
 #define EVENT_CHECK 2
 
-#define MUSIC_INFO_MAX 6
+#define MUSIC_INFO_MAX 9
 #define MIDI_CH_UNUSED 0xFF
 
 static uint8_t music_state;
